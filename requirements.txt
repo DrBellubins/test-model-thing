@@ -1,0 +1,7 @@
+mlx
+numpy
+fastapi
+uvicorn
+websockets
+httpx
+pytest
